@@ -1,2 +1,2 @@
 # LUDO-3D
- This is webgl version of "LUDO-3D"
+ Play on web from here https://nikgamedev.github.io/LUDO-3D/
